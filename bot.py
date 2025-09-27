@@ -18,7 +18,7 @@ def time_now():
     return now
 
 
-TOKEN = "MTM3NDc5MzgxODM2MDExOTQ0Ng.GrhGJg.evKaC-zl49MFeEG0_CQNQla1ZIKRnCiNgkU8tg"
+
 
 
 @bot.event
